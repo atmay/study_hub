@@ -2,6 +2,9 @@
 Cheetsheet for different tools and technologies
 
 ## Alembic
+
+Alembic provides for the creation, management, and invocation of change management scripts for a relational database, using SQLAlchemy as the underlying engine. 
+
 *link: https://alembic.sqlalchemy.org/en/latest/tutorial.html*
 
 - Create migration: `alembic revision -m 'put migration's name here'`
