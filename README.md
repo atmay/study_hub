@@ -1,6 +1,11 @@
 # cheetsheet
 Cheetsheet for different tools and technologies
 
+## Cracking the coding interview highlights
+
+- Resizing factor for Python lists depends greatly on the version of CPython but is always more than 1. For some versions it equals to 1.12. 
+- Calculating complexity: 1 + 2 + .... + n equals to n(n+1)/2 or O(n^2)
+
 ## Alembic
 
 Alembic provides for the creation, management, and invocation of change management scripts for a relational database, using SQLAlchemy as the underlying engine. 
