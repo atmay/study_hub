@@ -1,0 +1,22 @@
+### QUESTIONS I WAS ASKED ON MIDDLE PYTHON BACKEND DEV INTERVIEWS
+
+- What's the difference between iterators and generators in Python?
+- What are websockets? What are sockets?
+- Describe Liskov's substitution principle.
+- What is hashtable? How to deal with collisions?
+- Explain indexes in DB. 
+- Multiprocessing vs multitreading - what's the difference?
+- How to deal with Elasticsearch?
+- Which normal forms do you know?
+- How does Django handle simultaneous requests? How to deal with data racing?
+- What is mutex?
+- Git. Merging vs rebasing strategies
+- How to alternatively organize context management in Python?
+- What is column DB?
+- OOP principles
+- http vs https: what's the difference? which one is better and why?
+- Which ORM-libraries are not compatible with asynchronous approach?
+- How to store sensitive info in DB? 
+- Explain types of JOIN in SQL
+- What's the pros and cons of FastAPI? How this framework connected to Tornado?
+- Which No-SQL storage systems do you know?

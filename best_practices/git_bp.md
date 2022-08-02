@@ -1,4 +1,4 @@
-## Useful readings about GIT related best practices (annotated):
+## Useful reading about GIT related best practices (annotated):
 
 ### [Best practices for teams. GIT _(Article)_](https://opensource.com/article/20/7/git-best-practices):
 
@@ -29,3 +29,7 @@
     - `Reword` allows you to change a commit message, perhaps to fix a typo or add additional commentary.
     - `Edit` allows you to make changes to the commit while in the process of replaying the branch.
     - `Squash` merges multiple commits into one.
+
+## VIDEOS 
+
+- []
