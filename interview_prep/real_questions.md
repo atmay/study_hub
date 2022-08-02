@@ -5,7 +5,7 @@
 - Describe Liskov's substitution principle.
 - What is hashtable? How to deal with collisions?
 - Explain indexes in DB. 
-- Multiprocessing vs multitreading - what's the difference?
+- Multiprocessing vs multithreading - what's the difference?
 - How to deal with Elasticsearch?
 - Which normal forms do you know?
 - How does Django handle simultaneous requests? How to deal with data racing?
