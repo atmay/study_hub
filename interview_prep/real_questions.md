@@ -17,6 +17,6 @@
 - http vs https: what's the difference? which one is better and why?
 - Which ORM-libraries are not compatible with asynchronous approach?
 - How to store sensitive info in DB? 
-- Explain types of JOIN in SQL
+- Explain types of JOIN in SQL. What is CROSS JOIN?
 - What's the pros and cons of FastAPI? How this framework connected to Tornado?
 - Which No-SQL storage systems do you know?
