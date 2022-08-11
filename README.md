@@ -7,4 +7,5 @@ Here you can find:
 - [DB and tools - gists, snippets & cheatsheets](/db)
 - [Classic algorithms: sorting, search](/algos_and_data_structures)
 - [Best practices and good reads](/best_practices)
+
 Feel free to use it! 
