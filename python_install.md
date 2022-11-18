@@ -11,7 +11,7 @@ https://brew.sh
 
 Вводим команду с главной страницы в терминал:
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 
 Добавляем пакетный менеджер Homebrew к переменным окружения. По очереди вводим в терминал команды:
