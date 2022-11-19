@@ -1,3 +1,5 @@
+# Установка Python на MacOS
+
 # Запускаем Терминал
 
 - Command+Пробел -> вводим "Terminal"
@@ -46,3 +48,10 @@ python3 --version
 brew unlink python@3.<current>
 brew link python@3.11
 ```
+# Первая программа: Hello World
+
+Выводим фразу Hello World на экран:
+
+- Вводим в терминале `python3` и попадаем в Python-консоль
+- Вводим `print("Hello, world!")` и нажимаем Enter, ниже должно появится на экране `Hello, World!`
+- Чтобы выйти из Python-консоли, набираем exit() и нажимаем Enter
