@@ -1,11 +1,11 @@
 # Установка Python на MacOS
 
-# Запускаем Терминал
+## Запускаем Терминал
 
 - Command+Пробел -> вводим "Terminal"
 
 
-# Устанавливаем пакетный менеджер homebrew
+## Устанавливаем пакетный менеджер homebrew
 
 Для macOS существует пакетный менеджер Homebrew. Удобно устанавливать через него программы и управлять ими.
 
@@ -23,7 +23,7 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)" 
 ```
 
-# Устанавливаем Python
+## Устанавливаем Python
 
 Сначала смотрим, какие версии Python уже есть. В терминале вводим:
 
@@ -48,7 +48,8 @@ python3 --version
 brew unlink python@3.<current>
 brew link python@3.11
 ```
-# Первая программа: Hello World
+
+## Первая программа: Hello World
 
 Выводим фразу Hello World на экран:
 
