@@ -56,3 +56,4 @@ brew link python@3.11
 - Вводим в терминале `python3` и попадаем в Python-консоль
 - Вводим `print("Hello, world!")` и нажимаем Enter, ниже должно появится на экране `Hello, World!`
 - Чтобы выйти из Python-консоли, набираем exit() и нажимаем Enter
+
